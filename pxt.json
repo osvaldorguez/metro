@@ -1,0 +1,20 @@
+{
+    "name": "metro",
+    "description": "",
+    "dependencies": {
+        "adafruit-metro-m4-express": "*",
+        "display": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
